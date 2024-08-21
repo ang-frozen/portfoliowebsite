@@ -1,0 +1,53 @@
+[
+    {
+      "title": "GPS Tracker and Location Database System for BUET Students",
+      "imageSrc": "projects/project.png",
+      "description": "Monitors the current location of BUET buses with a short delay. Provides precise bus arrival information (90%+).",
+      "skills": ["IOT", "Arduino", "RasPi", "ESP", "WireLess Comm.", "Web Development"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "DL-based Automatic License Plate Detection System",
+      "imageSrc": "projects/project.png",
+      "description": " Utilizes advanced deep learning algorithms(YOLO, ResNet) for accurate license plate detection.Ensures reliable and precise detection in various conditions.(85%+)",
+      "skills": ["Python", "PyTorch", "YOLO", "Transfer" ,"Learning", "MATLAB"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Smart Trash Collector Integrated with AI",
+      "imageSrc": "projects/project.png",
+      "description": "Employs artificial intelligence to optimize trash collection processes. Automatically sorts waste into appropriate categories (recyclables, organic, etc.).",
+      "skills": ["Arduino", "RasPI", "Wireless-Comm", "Robotics", "AutoCAD", "Fusion"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Single Board Oscilloscope, Freq-Gen, DC source Module",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an affordable single board that combines multiple functions. Oscilloscope-Provides real-time visualization of electrical signals. Generates precise frequencies for testing and experimentation. Offers adjustable DC voltage for various applications. Supplies a stable 12V output. Supplies a stable 5V output.",
+      "skills": ["Arduino", "Sensor", "Microchip"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Smart Bike accident detection and Alarm system",
+      "imageSrc": "projects/project.png",
+      "description": "Utilizes sensors to detect bike accidents in real-time.  Sends immediate alerts to emergency contacts and authorities upon detection of an accident.",
+      "skills": ["Embedded System","Arduino", "Sensor", "Microchip"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Delivery Drone with Arduino",
+      "imageSrc": "projects/project.png",
+      "description": "Utilizes Arduino for precise control and navigation of the drone.  Equipped with sensors to detect and avoid obstacles in real time.",
+      "skills": ["Embedded System","Arduino", "Sensor", "Microchip"],
+      "demo": "",
+      "source": ""
+    }
+    
+
+  ]
+  
