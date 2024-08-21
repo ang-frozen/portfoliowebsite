@@ -1,0 +1,53 @@
+@import "../../vars.css";
+
+.container{
+    margin-top: 600px;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.int{
+    font-family: var(--font-poppoins);
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.awards{
+    font-family: var(--font-poppoins);
+    font-size: 32px;
+    font-weight: 600;
+    
+}
+
+.award{
+    margin-top: 5%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.awpng{
+    width: 400px;
+
+}
+
+.more{
+    font-family: var(--font-poppoins);
+    font-size: 26px;
+    font-weight: 600;
+
+}
+
+.uli{
+    color: var(--color-text);
+    text-decoration: underline;
+    text-decoration-color: red;
+}
