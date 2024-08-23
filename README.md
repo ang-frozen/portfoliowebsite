@@ -4,6 +4,9 @@ Visit  [angkondeb.netlify.app](https://angkondeb.netlify.app/) in Laptop/PC
 
 Issues: Some images need to be reduced in size. But it works just fine without that.
 
+# Design Inspiration 
+   You can view this [Figma](https://www.figma.com/design/eCmKMRZ8X09HWVnIsxKGBM/WhiteProto?m=auto&t=BDZZm5mGt6b1FGkI-1) file
+
 ## Reuse Guide
 1. Install Node js in your PC 
    You can use this [Link](https://nodejs.org/en)
